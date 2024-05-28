@@ -7,6 +7,8 @@ Once the host is determined, it calculates both the "available", "accessible" an
 
 The jupyter notebook file can be used to plot the boxplot of BtH ratios accross referenced deposits in the dataset.
 
+BtH v0.1 results are available on Zenodo at: https://zenodo.org/records/11359372
+
 ## Author
 Titouan Greffe (greffe.titouan@uqam.ca)
 
