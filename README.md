@@ -12,4 +12,5 @@ BtH v0.1 results are available on Zenodo at: https://zenodo.org/records/11359372
 ## Author
 Titouan Greffe (greffe.titouan@uqam.ca)
 
-An article describing the methodology and results of BtH ratios will be published soon.
+## Related scientific article
+Greffe, T.; Frenzel, M.; Werner, T. T.; Mudd, G.; Wang, P.; Margni, M.; Bulle, C. Byproduct-to-Host Ratios for Assessing the Accessibility of Mineral Resources. Environ. Sci. Technol. 2024. https://doi.org/10.1021/acs.est.4c05293.
